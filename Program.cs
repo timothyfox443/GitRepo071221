@@ -8,7 +8,7 @@ namespace GitRepo071221
         {
             Console.WriteLine("Hello and welcome to the middle of the film!");
             Console.WriteLine("Should you wish to continue, press the any key.");
-
+            //this is a comment so I can check my comments
             Console.ReadKey();
             Console.WriteLine("That wasn't the key I had in mind but I guess it worked.");
 
